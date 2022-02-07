@@ -101,8 +101,8 @@
 
 ```bash
 $ export GO111MODULE=on && export GOPROXY=https://goproxy.cn # 开启mod模块以及换源
-$ git
-$ cd 
+$ git clone https://github.com/HengY1Sky/GoSecKillMall
+$ cd GoSecKillMall
 $ go mod tidy
 # 进入Goland开始操作吧
 ```
