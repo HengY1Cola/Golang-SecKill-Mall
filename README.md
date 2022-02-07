@@ -32,7 +32,7 @@
 |  数据库映射：GORM   |    [GORM中文文档](https://gorm.io/zh_CN/docs/index.html)     |
 |    压力测试：Wrk    | [性能测试神器 wrk 使用教程](https://segmentfault.com/a/1190000023212126) |
 
-<img src="https://dailypic.hengyimonster.top/typora/Go%E7%A7%92%E6%9D%80%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84.png" alt="Go秒杀逻辑架构" style="zoom:10%;" />
+<img src="https://dailypic.hengyimonster.top/typora/GoFramework.webp" style="zoom:50%;" />
 
 ##  教学目录/框架目录
 
