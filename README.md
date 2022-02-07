@@ -32,7 +32,7 @@
 |  数据库映射：GORM   |    [GORM中文文档](https://gorm.io/zh_CN/docs/index.html)     |
 |    压力测试：Wrk    | [性能测试神器 wrk 使用教程](https://segmentfault.com/a/1190000023212126) |
 
-<img src="https://dailypic.hengyimonster.top/typora/GoFramework.webp"/>
+![](https://dailypic.hengyimonster.top/typora/GoFramework.webp)
 
 ##  教学目录/框架目录
 
